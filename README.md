@@ -21,7 +21,7 @@ $ npm install
 $ node index.js
 ```
 
-> Download ngrok (https://ngrok.com/download) and unzip.
+> Download [ngrok](https://ngrok.com/download) and unzip.
 
 > Start ngrok service on port 8000 or the port on which you are running your local web server.
 
