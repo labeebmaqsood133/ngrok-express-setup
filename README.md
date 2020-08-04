@@ -26,7 +26,7 @@ $ node index.js
 > Start ngrok service on port 8000 or the port on which you are running your local web server.
 
 ```shell
-$ ./ngrok --port 8000
+$ ./ngrok http 8000
 ```
 
 - Once the ngrok service is up and running, you can use the provided link by ngrok to use local web app anywhere from the internet. 
